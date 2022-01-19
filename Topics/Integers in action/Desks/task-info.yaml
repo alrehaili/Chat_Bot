@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4499#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #6 of 10. Wrong answer
+  time: Fri, 24 Dec 2021 18:40:21 UTC
+record: -1
